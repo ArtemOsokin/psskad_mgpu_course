@@ -8,4 +8,8 @@
 
 1. [Лабораторная работа 1](/LW/LW1/)
 + [MongoDB](/LW/LW1/LW_1_Osokin_A_I_MongoDB.ipynb)
-+ [SQLite](/LW/LW1/LW_1_Osokin_A_I_SQLite.ipynb) 
++ [SQLite](/LW/LW1/LW_1_Osokin_A_I_SQLite.ipynb)
+2. [Лабораторная работа 2](/LW/LW2/)
++ [XPath](/LW/LW2/LW_2_Osokin_A_I_XPath.ipynb)
+
+
